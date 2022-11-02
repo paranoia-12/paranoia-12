@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paranoia-12
 - 👀 I’m interested in basketball
-- 🌱 I’m currently learning c/c++
+- 🌱 I’m currently learning c/c++、html5+css+JavaScript……
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ? gaolong_wang12@163.com
 
